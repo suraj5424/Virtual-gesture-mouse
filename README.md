@@ -10,7 +10,8 @@ Powered by **MediaPipe** 🤳 for hand tracking, **OpenCV** 🖼️ for video pr
 
 ---
 
-<img src="https://github.com/suraj5424/Virtual-gesture-mouse/blob/main/demo.gif" alt="Demo of Virtual Gesture Mouse" loop="infinite" />
+<img src="https://github.com/suraj5424/Virtual-gesture-mouse/blob/main/demo.gif" alt="Demo of Virtual Gesture Mouse" style="width:600px; height:auto;" />
+
 
 
 ---
